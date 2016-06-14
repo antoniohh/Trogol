@@ -82,27 +82,27 @@ Base de Datos SQLite:
 
 Ventana de logging:
 
-![Ventana de logging](https://dl.dropboxusercontent.com/u/3193442/Proyectos/Trogol01.jpg)
+![Ventana de logging](https://dl.dropboxusercontent.com/u/3193442/Proyectos/Trogol01.png)
 
 Elección del número de hamburguesas:
 
-![Elección del número de hamburguesas](https://dl.dropboxusercontent.com/u/3193442/Proyectos/Trogol02.jpg)
+![Elección del número de hamburguesas](https://dl.dropboxusercontent.com/u/3193442/Proyectos/Trogol02.png)
 
 Elección del número de fantasmas:
 
-![Elección del número de fantasmas](https://dl.dropboxusercontent.com/u/3193442/Proyectos/Trogol03.jpg)
+![Elección del número de fantasmas](https://dl.dropboxusercontent.com/u/3193442/Proyectos/Trogol03.png)
 
 Ventana principal del juego:
 
-![Ventana principal del juego](https://dl.dropboxusercontent.com/u/3193442/Proyectos/Trogol04.jpg)
+![Ventana principal del juego](https://dl.dropboxusercontent.com/u/3193442/Proyectos/Trogol04.png)
 
 Partida en proceso:
 
-![Partida en proceso](https://dl.dropboxusercontent.com/u/3193442/Proyectos/Trogol05.jpg)
+![Partida en proceso](https://dl.dropboxusercontent.com/u/3193442/Proyectos/Trogol05.png)
 
 Ventana de información:
 
-![Ventana de información](https://dl.dropboxusercontent.com/u/3193442/Proyectos/Trogol06.jpg)
+![Ventana de información](https://dl.dropboxusercontent.com/u/3193442/Proyectos/Trogol06.png)
 
 ### Licencia.
 
