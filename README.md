@@ -1,18 +1,24 @@
 # Trogol
+
 ## Versión 2.1.0.0
-## Proyecto Trogol. Curso de Perfeccionamiento Java.
+
+## Proyecto Trogol. Curso de Perfeccionamiento Java. EII UEX.
 
 ### Novedades versión 2.1.0.0:
 
-Corregido el bug al comer el fantasma un trogol.
-Corregido el bug al restar la energía del trogol.
-En desarrollo el ejecutable para windows.
+> Corregido el bug al comer el fantasma un trogol.
+
+> Corregido el bug al restar la energía del trogol.
+
+> En desarrollo el ejecutable para windows.
 
 ### Implementaciones.
 
-Base de datos SQLite con el conector SQLite JDBC Driver.
-Control de logs de ejecución mediante Apache Log4j.
-Fuente de iconos Font Awesome facilitados por jIconFont.
+> Base de datos SQLite con el conector SQLite JDBC Driver.
+
+> Control de logs de ejecución mediante Apache Log4j.
+
+> Fuente de iconos Font Awesome facilitados por jIconFont.
 
 ### Descripción.
 
@@ -48,11 +54,12 @@ La aplicación Java se ha desarrollado en un proyecto de **Eclipse** con **Maven
 
 Icono de la aplicación:
 
->[Desktop Halloween] (https://www.iconfinder.com/aha-soft)
+> [Desktop Halloween] (https://www.iconfinder.com/aha-soft)
 
 Los iconos Font Awesome y librería java jIconFont:
 
 > [Font Awesome] (https://fortawesome.github.io/Font-Awesome/)
+
 > [jIconFont] (http://jiconfont.github.io/)
 
 Control de Logs Apache Log4j:
@@ -62,7 +69,9 @@ Control de Logs Apache Log4j:
 SQLite Conector JDBC:
 
 > SQLite JDBC Driver provided as a courtesy of [Taro L. Saito] (http://xerial.org/leo/)
+
 > [JDBC] (https://bitbucket.org/xerial/sqlite-jdbc)
+
 > [JDBC GitHub] (https://github.com/xerial/sqlite-jdbc)
 
 Base de Datos SQLite:
